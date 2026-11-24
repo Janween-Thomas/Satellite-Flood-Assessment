@@ -1,0 +1,2 @@
+district,state,before_date,after_date,algorithm,ratio_threshold,landcover_year,potential_flood_km2,exposed_cropland_km2,exposed_builtup_km2
+Dhemaji,Assam,2024-06-24,2024-07-30,Sentinel-1 VV ratio threshold,1.25,2021,22.22539799168267,5.207293783644103,0.004418439476013183
