@@ -13,6 +13,11 @@ estimates exposure of agricultural and built-up land.
 
 https://dhemaji-flood-mapping-2024.streamlit.app/
 
+
+## 📸 Application Screenshot
+
+![FloodWatch Dashboard](screenshots/floodwatch_dashboard.png)
+
 ## 📍 Study Area
 
 - Location: Dhemaji District, Assam, India
